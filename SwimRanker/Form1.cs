@@ -541,6 +541,7 @@ namespace SwimRanker
                             activeWorksheet = women_relay;
                         }
                     }
+                    
                     // trueなら個人、falseならリレー
                     bool ifInd = int.Parse(swimInfo[2]) < 6;
                     ParseHTMLToXlsx(swimData, gameName, poolLength, stdResultString, ref excelApp, ref activeWorksheet, ifInd, style, distance);
