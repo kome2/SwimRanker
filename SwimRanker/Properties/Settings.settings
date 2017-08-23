@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SwimRanker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="configPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config.txt</Value>
+    </Setting>
+    <Setting Name="standardPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">standards.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
